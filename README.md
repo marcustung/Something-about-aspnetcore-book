@@ -1,4 +1,4 @@
-# Something-about-aspnetcore-ebook
+# Something about ASP.NET Core ebook
 The Something about ASP.NET Core Book is introduction to  web programming and based on ASP.NET Core 2.2
 
 *by Marcus Tung*
@@ -8,7 +8,7 @@ The Something about ASP.NET Core Book is introduction to  web programming and ba
 <img alt="star-wars-font" border="0" src="https://fontmeme.com/permalink/190813/68dded8b6b02cad6215108ab0b70a6d3.png" />
 
 ## 前言
-說明如下
+ASP.NET Core 的二三事
 
 * Something about ASP.NET Core 電子書是自己在學習 ASP.NET Core 的個人筆記整理而成，如果內容有不清楚或是錯誤的地方歡迎一起討論。
 * 電子書內容會持續更新，目前以 .NET Core 2.2 為主，待 .NET Core 3.0 Release 之後會持續加入 3.0 相關內容。
@@ -89,7 +89,7 @@ The Something about ASP.NET Core Book is introduction to  web programming and ba
     > QueryHelpers - 建立與解析 QueryString 參數  
     > Dotnet Watch - 使用 Dotnet Watch 自動編譯 ASP.NET Core 應用程式  
     > Apiversion - 加入 API 版本控制  
-    > 自己的 SSD 自己救 - 移除未使用的 ASP.NET Core SDK
+    > 自己的 SSD 自己救 - 移除未使用的 ASP.NET Core SDK  
     > BenchmarkDotNet - 使用 BenchmarkDotNet 測試程式碼效能
 
 
