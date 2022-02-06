@@ -74,7 +74,7 @@ ASP.NET Core 的二三事
 * Microsoft Azure
     > Azure 初體驗  
     > 打包 ASP.NET Core 應用程式到 Docker Hub 並發佈到 Azure  
-    > Microsoft Azure 免費 DevOps 電子書開放下載
+    > Microsoft Azure 免費 DevOps 電子書開放下載 
     > 建立 Azure Container Registry 並整合 Microsoft Team 通知 
 
 * 遇到的問題
@@ -94,13 +94,13 @@ ASP.NET Core 的二三事
     
 * 未分類
     > QueryHelpers - 建立與解析 QueryString 參數  
-    > Dotnet Watch - 使用 Dotnet Watch 自動編譯 ASP.NET Core 應用程式  
-    > Apiversion - 加入 API 版本控制  
-    > 自己的 SSD 自己救 - 移除未使用的 ASP.NET Core SDK  
-    > BenchmarkDotNet - 使用 BenchmarkDotNet 測試程式碼效能 
-    > 如何在 ASP.NET Core Middleware 加上單元測試 UnitTest 
-    > ASP.NET Core 中的例外處理方式 
-
+    > Dotnet Watch - 使用 Dotnet Watch 自動編譯 ASP.NET Core 應用程式   
+    > Apiversion - 加入 API 版本控制   
+    > 自己的 SSD 自己救 - 移除未使用的 ASP.NET Core SDK    
+    > BenchmarkDotNet - 使用 BenchmarkDotNet 測試程式碼效能     
+    > 如何在 ASP.NET Core Middleware 加上單元測試 UnitTest    
+    > ASP.NET Core 中的例外處理方式  
+ 
 
 ## ASP.NET Core 學習資源
 
