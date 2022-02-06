@@ -72,10 +72,10 @@ ASP.NET Core 的二三事
     > Polly 重試機制搭配 jitter 策略  
 
 * Microsoft Azure
-    > Azure 初體驗  
-    > 打包 ASP.NET Core 應用程式到 Docker Hub 並發佈到 Azure  
-    > Microsoft Azure 免費 DevOps 電子書開放下載 
-    > 建立 Azure Container Registry 並整合 Microsoft Team 通知 
+    > Azure 初體驗    
+    > 打包 ASP.NET Core 應用程式到 Docker Hub 並發佈到 Azure    
+    > Microsoft Azure 免費 DevOps 電子書開放下載   
+    > 建立 Azure Container Registry 並整合 Microsoft Team 通知   
 
 * 遇到的問題
     > [IIS] Unable to connect to web server 'IIS Express'  
@@ -88,9 +88,9 @@ ASP.NET Core 的二三事
     > [Azure] VisualStudio 2019 部署 Azure 失敗 : Publish has encountered an error. Build Failed.
 
 * 分散式追蹤
-    > 現代化監控使用 OpenTelemetry 實現 : 可觀測性(Observability) 
-    > 現代化監控使用 OpenTelemetry 實現 : OpenTelemetry 開放遙測 
-    > 現代化監控使用 OpenTelemetry 實現 : 在 .NET 如何使用 OpenTelemetry 
+    > 現代化監控使用 OpenTelemetry 實現 : 可觀測性(Observability)     
+    > 現代化監控使用 OpenTelemetry 實現 : OpenTelemetry 開放遙測     
+    > 現代化監控使用 OpenTelemetry 實現 : 在 .NET 如何使用 OpenTelemetry     
     
 * 未分類
     > QueryHelpers - 建立與解析 QueryString 參數  
