@@ -33,6 +33,7 @@ ASP.NET Core 的二三事
     > Windows 如何更新環境變數 Environment Variable  
     > 如何在 ASP.NET Core 中使用 YAML  
     > 設定 JSON 序列化格式      
+    > ASP.NET Core 使用強型別取代 IOption 注入配置
 
 * Startup
     > 環境佈署設定 appsettings.json  
@@ -74,6 +75,7 @@ ASP.NET Core 的二三事
     > Azure 初體驗  
     > 打包 ASP.NET Core 應用程式到 Docker Hub 並發佈到 Azure  
     > Microsoft Azure 免費 DevOps 電子書開放下載
+    > 建立 Azure Container Registry 並整合 Microsoft Team 通知
 
 * 遇到的問題
     > [IIS] Unable to connect to web server 'IIS Express'  
@@ -85,12 +87,19 @@ ASP.NET Core 的二三事
     > [Unittest] ASP.NET Core 2.2 測試專案中的版本衝突  
     > [Azure] VisualStudio 2019 部署 Azure 失敗 : Publish has encountered an error. Build Failed.
 
+* 分散式追蹤
+    > 現代化監控使用 OpenTelemetry 實現 : 可觀測性(Observability)
+    > 現代化監控使用 OpenTelemetry 實現 : OpenTelemetry 開放遙測
+    > 現代化監控使用 OpenTelemetry 實現 : 在 .NET 如何使用 OpenTelemetry
+    
 * 未分類
     > QueryHelpers - 建立與解析 QueryString 參數  
     > Dotnet Watch - 使用 Dotnet Watch 自動編譯 ASP.NET Core 應用程式  
     > Apiversion - 加入 API 版本控制  
     > 自己的 SSD 自己救 - 移除未使用的 ASP.NET Core SDK  
     > BenchmarkDotNet - 使用 BenchmarkDotNet 測試程式碼效能
+    > 如何在 ASP.NET Core Middleware 加上單元測試 UnitTest
+    > ASP.NET Core 中的例外處理方式
 
 
 ## ASP.NET Core 學習資源
