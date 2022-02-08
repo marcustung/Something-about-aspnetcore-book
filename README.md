@@ -45,6 +45,7 @@ ASP.NET Core 的二三事
     > UseStaticFiles  
     > 使用 Big5 中文編碼  
     > Health Check  
+    > 如何在 ASP.NET Core Middleware 加上單元測試 UnitTest    
 
 * Web Server
     > 在 IIS 執行 ASP.NET Core 應用程式  
@@ -97,8 +98,7 @@ ASP.NET Core 的二三事
     > Dotnet Watch - 使用 Dotnet Watch 自動編譯 ASP.NET Core 應用程式   
     > Apiversion - 加入 API 版本控制   
     > 自己的 SSD 自己救 - 移除未使用的 ASP.NET Core SDK    
-    > BenchmarkDotNet - 使用 BenchmarkDotNet 測試程式碼效能     
-    > 如何在 ASP.NET Core Middleware 加上單元測試 UnitTest    
+    > BenchmarkDotNet - 使用 BenchmarkDotNet 測試程式碼效能   
     > ASP.NET Core 中的例外處理方式  
  
 
